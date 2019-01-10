@@ -1,0 +1,22 @@
+Project Title: Food Requirements for a Healthy Life
+
+Team members: 	María Luisa Castellanos
+		Alejandro Dorantes
+
+Project Description/Outline:
+Analyze the daily food consumed by a person and make comparisons with the requirements.
+	
+Research Questions to Answer:
+Division of groups between gender and age.
+Nutritional Information of products.
+
+Data Sets to be Used: USDA-United States Department of Agriculture- API https://ndb.nal.usda.gov/ndb/doc/index# 
+
+Rough Breakdown of Tasks:
+
+	-Requirements data base based on your age, weight and gender, (Calorimetry)
+	-The users will enter their personal information with the objective to determine the necessary nutritional requirement.
+	-The users will make a daily income from their diet.
+	-The provided information will generate a query in the API of the USDA Food Composition DataBase.
+	-The information provided in the query will be printed in a CSV file.
+	-With the CSV file information We will worked on the development of graphs to perform a feed analysis of the users.
