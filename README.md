@@ -19,15 +19,15 @@
     
 ### Questions
 
-1. Wich are the nutritional and energy requirements of each individual?\
+1. **Which are the nutritional and energy requirements of each individual?**\
     With help of estimation equations and the personal information of the patient we are calculating his ideal weight (if he is over or     under of the normal classification of the CMI) in order to estimate his/her energy and nutritional requirements based on the EER of     the IOM (Institute of Medicine) formula. 
 
-2. How close are the calories we consume vs the ones we need? \
+2. **How close are the calories we consume vs the ones we need?** \
     For the purpose of the 1st part of the project, we are working with a random sample of the food consumed.\
     Each food contains certain amount of nutrient and calories, and with the information obtained We sume the total grams of proteins,       carbohydrates & fats and compare them with the ones needed.\
     After a month or the certain of time worked, we can see how far or close the person is for the grams needed for each nutrient.
     
-3. What would be the weight (bodyfat) we will have at the end of one month with the food we consume?\
+3. **What would be the weight (bodyfat) we will have at the end of one month with the food we consume?**\
     Considering the amount of calories ingested each day, we calculate the kg gained or lost per day and the end
     of the month, we can see the final weight.
 
@@ -70,5 +70,6 @@ database **Nutrients** to get the information for each nutrient: *Protein, Carbo
 
 4. Present and discuss interesting figures developed during exploration, ideally with the help of Jupyter Notebook
 
-
+    [Table 1](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Nutrients_Consumed.csv)
+    "Total nutrients consumed in one month"
 
