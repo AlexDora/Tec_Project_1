@@ -8,9 +8,11 @@
 
     These days, it is necessary to have a helthier life by exercising and eating well.
     But eating well is not only stop or start to eat some type of food!!
+    
     According to your gender, age & height you can calculate your ideal weight and the calories and nutrients
     you must consume every day.
     The calories consumed are divided in Proteins, Carbohydrates & Fats.
+    
     The intention is to make a tool with wich nutritionists and regular people can make a comparison between the 
     needed calories and the ones actually consumed in a period of time and with the information obtained know how 
     many calories are under or above the requirements, calculating the body fat that could be lost or gained in a 
@@ -72,6 +74,9 @@ database **Nutrients** to get the information for each nutrient: *Protein, Carbo
 
     [Table 1](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Nutrients_Consumed.csv)
     "Total nutrients consumed in one month"
+    
+    [Table 2](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/User_Results.csv)
+    "Total information for one user in one month"
 
 
 ## Data Analysis
@@ -80,17 +85,17 @@ database **Nutrients** to get the information for each nutrient: *Protein, Carbo
 
 2. Present and discuss interesting figures developed during analysis, ideally with the help of Jupyter Notebook
 
-    [Figure 1]
-    "Daily Carbs consumed"
-    [Figure 2]
-    "Daily Proteins consumed"
-    [Figure 3]
+    [Figure 1](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Daily_Carbs.png)
+    "Daily Carbs consumed"\
+    [Figure 2](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Daily_Proteins.png)
+    "Daily Proteins consumed"\
+    [Figure 3](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Daily_Fats.png)
     "Daily Fats consumed"
     
-    [Figure 4]
-    "Daily Requirements Distribution"
-    [Figure 5]
+    [Figure 4](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Daily_Requirements_Distribution.png)
+    "Daily Requirements Distribution"\
+    [Figure 5](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Average_Nutrients_Consumed_Distribution.png)
     "Average Nutrients Consumed Distribution"
     
-    [Figure 6]
+    [Figure 6](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Body_Fat_Loss-Gain%20(Kg).png)
     "Body Fat Loss / Gain (kg)"
