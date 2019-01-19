@@ -99,3 +99,19 @@ database **Nutrients** to get the information for each nutrient: *Protein, Carbo
     
     [Figure 6](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Body_Fat_Loss-Gain%20(Kg).png)
     "Body Fat Loss / Gain (kg)"
+
+
+## Discussion
+
+Discuss your findings. Did you find what you expected to find? If not, why not?
+What inferences or general conclusions can you draw from your analysis?
+
+
+## Post Mortem
+
+Discuss any difficulties that arose, and how you dealt with them
+Discuss any additional questions that came up, but which you didn't have time to answer: What would you research next, if you had two more weeks?
+
+
+
+## Questions
