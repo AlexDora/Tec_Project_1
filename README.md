@@ -73,3 +73,24 @@ database **Nutrients** to get the information for each nutrient: *Protein, Carbo
     [Table 1](https://github.com/AlexDora/Tec_Project_1/blob/FinalResults/Nutrients_Consumed.csv)
     "Total nutrients consumed in one month"
 
+
+## Data Analysis
+
+1. Discuss the steps you took to analyze the data and answer each question you asked in your proposal
+
+2. Present and discuss interesting figures developed during analysis, ideally with the help of Jupyter Notebook
+
+    [Figure 1]
+    "Daily Carbs consumed"
+    [Figure 2]
+    "Daily Proteins consumed"
+    [Figure 3]
+    "Daily Fats consumed"
+    
+    [Figure 4]
+    "Daily Requirements Distribution"
+    [Figure 5]
+    "Average Nutrients Consumed Distribution"
+    
+    [Figure 6]
+    "Body Fat Loss / Gain (kg)"
